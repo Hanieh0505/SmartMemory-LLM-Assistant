@@ -18,5 +18,5 @@ A Python-based intelligent conversational chatbot built using **Groq API** and *
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/SmartMemory-LLM-Assistant.git](https://github.com/YOUR_USERNAME/SmartMemory-LLM-Assistant.git)
+   git clone https://github.com/Hanieh0505/SmartMemory-LLM-Assistant.git
    cd SmartMemory-LLM-Assistant
